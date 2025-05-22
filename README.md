@@ -2,6 +2,7 @@
 本项目为基于论文["A Goal-Oriented Reinforcement Learning-Based Path Planning Algorithm for Modular Self-Reconfigurable Satellites"](https://arxiv.org/abs/2505.01966)实现的多模块卫星自重构路径可视化软件。包含预训练模型、算法实现以及图形化操作界面(GUI)。
 
 ## 一、环境依赖与预训练模型配置
+**在使用本项目前，请在根目录下新建两个空文件夹，分别命名为"model"与"app_plot"。**
 
 ### 环境依赖
 ```bash
